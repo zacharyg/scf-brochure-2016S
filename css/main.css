@@ -1,0 +1,240 @@
+html, body {
+	height: 100%;
+	font-family: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.spacer.half {
+	height: 50%;
+}
+.highlight {
+	font-weight: 600;
+	color: #FDBD10;
+}
+/* Splash */
+/* ----------------------------------------------------- */
+.splash {
+	height: 100%;
+	min-height: 520px;
+	position: relative;
+	color: white;
+	background-image: url(../img/background.jpg);
+}
+.logo {
+	height: 280px;
+	margin: -240px auto 60px auto;
+	display: block;
+}
+.description {
+	font-size: 2.4rem;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	line-height: 4rem;
+	letter-spacing: 0.5rem;
+	text-shadow: 1px 1px 4px #777;
+}
+.description>.startups {
+	display: block;
+}
+.description>.info {
+	display: block;
+	font-size: 2rem;
+	letter-spacing: 0.55rem;
+}
+.description>.time {
+	display: block;
+	font-size: 1.5rem;
+	line-height: 3rem;
+	letter-spacing: 0.4rem;
+}
+.description>.time>.sub {
+	font-size: 1.2rem;
+}
+.chevron {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	text-align: center;
+}
+.chevron>i {
+	margin-bottom: 20px;
+	font-size: 2rem;
+	transition: 0.2s ease;
+}
+.chevron>i:hover {
+	color: #FDBD10;
+	text-shadow: 0 0 2px #FDBD10;
+	cursor: pointer;
+	transition: 0.2s ease;
+}
+/* About */
+/* ----------------------------------------------------- */
+.about {
+	padding: 100px 0 80px 0;
+	background-color: #FDBD10;
+	color: white;
+	text-align: center;
+}
+.about>h2 {
+	margin-bottom: 50px;
+	font-size: 3.6rem;
+	font-weight: 400;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.55rem;
+}
+.about>p {
+	padding: 0 10%;
+	font-size: 1.6rem;
+	font-weight: 400;
+	text-align: center;
+	line-height: 3rem;
+	letter-spacing: 0.1rem;
+}
+.about .rsvp {
+	margin: 20px auto 0 auto;
+	padding: 10px 20px;
+	display: inline-block;
+	font-size: 2.2rem;
+	text-decoration: none;
+	text-transform: uppercase;
+	letter-spacing: .2rem;
+	border: 1px solid white;
+	color: white;
+}
+.about .rsvp:hover{
+	background-color:white;
+	color: #FDBD10;
+	-webkit-transition: all 0.3s;
+       -moz-transition: all 0.3s;
+            transition: all 0.3s;
+}
+/* Logos */
+/* ----------------------------------------------------- */
+.logos {
+	padding: 100px 0 20px 0;
+}
+.logos>h2 {
+	margin-bottom: 50px;
+	font-size: 2rem;
+	font-weight: 400;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: 0.55rem;
+}
+.companies, .hosts {
+	padding: 0 10% 40px 10%;
+	text-align: center;
+}
+.companies img, .companies .andmore {
+	height: 64px;
+	margin: 0 20px 40px 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
+.companies .snapchat {
+	margin-top: -28px;
+	height:80px;
+}
+.companies .tinder {
+	margin-top: -28px;
+}
+.companies .Docket {
+	margin-top: -20px;
+	height:80px;
+}
+.companies .daqri {
+	margin-top: -28px;
+	height: 38px;
+}
+.companies .styku {
+	margin-top: -15px;
+}
+.companies .tigertext {
+	height: 72px;
+}
+.companies .omaze {
+	height: 38px;
+}
+.companies .soothe {
+	height: 80px;
+}
+.companies .curb {
+	height: 42px;
+}
+.companies .washio {
+	height: 54px;
+	margin-top: 10px;
+}
+.companies .soylent {
+	height: 54px;
+}
+.companies .curbstand {
+	height: 36px;
+}
+.companies .gem {
+	height: 70px;
+}
+.companies .kaarma {
+	height: 42px;
+}
+.companies .dailylook {
+	height: 40px;
+}
+.companies .lootsie {
+	height: 62px;
+}
+
+.companies .victorious {
+	height: 80px;
+}
+
+.companies .codewars {
+	height: 40px;
+}
+
+.companies .workpop {
+	height: 50px;
+}
+
+.companies .mayorsoffice {
+	height: 78px;
+}
+.companies .blp {
+	height: 42px;
+}
+
+.companies .greif {
+	height: 46px;
+}
+
+.hosts h2 {
+	margin-right: 10px;
+	display: inline-block;
+	font-size: 1.4rem;
+	font-weight: 600;
+	letter-spacing: .6rem;
+	text-transform: uppercase;
+	vertical-align: top;
+}
+.hosts img {
+	height: 48px;
+	margin: 0 20px 20px 20px;
+	display: inline-block;
+	vertical-align: top;
+}
+.hosts .sparksc {
+	margin-top: -10px;
+}
+.hosts .techla {
+	height: 24px;
+}
+/* Footer */
+/* ----------------------------------------------------- */
+.footer {
+	padding: 0 5% 20px 5%;
+	font-size: .75rem;
+	text-align: center;
+	line-height: 1rem;
+	letter-spacing: .1rem;
+	color: #CCC;
+}

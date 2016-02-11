@@ -1,2 +1,2 @@
-# scf-brochure-2016S
-Startup Career Fair Brochure Spring 2016
+# StartupCareerFairBrochure
+Brochure site for the Startup Career Fair on March 1st, 2016. Hosted by [Spark SC](http://sparksc.org/).
