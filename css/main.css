@@ -105,7 +105,8 @@ html, body {
 }
 .about .rsvp:hover{
 	background-color:white;
-	color: #FDBD10;
+	/*color: #FDBD10;*/
+	color: #60C3B2;
 	-webkit-transition: all 0.3s;
        -moz-transition: all 0.3s;
             transition: all 0.3s;
