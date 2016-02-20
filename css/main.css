@@ -7,7 +7,8 @@ html, body {
 }
 .highlight {
 	font-weight: 600;
-	color: #FDBD10;
+	/*color: #FDBD10;*/
+	color: #60C3B2;
 }
 /* Splash */
 /* ----------------------------------------------------- */
@@ -19,8 +20,8 @@ html, body {
 	background-image: url(../img/background.jpg);
 }
 .logo {
-	height: 280px;
-	margin: -240px auto 60px auto;
+	height: 400px;
+	margin: -240px auto 30px auto;
 	display: block;
 }
 .description {
@@ -61,7 +62,8 @@ html, body {
 	transition: 0.2s ease;
 }
 .chevron>i:hover {
-	color: #FDBD10;
+	/*color: #FDBD10;*/
+	color: #60C3B2;
 	text-shadow: 0 0 2px #FDBD10;
 	cursor: pointer;
 	transition: 0.2s ease;
@@ -70,7 +72,7 @@ html, body {
 /* ----------------------------------------------------- */
 .about {
 	padding: 100px 0 80px 0;
-	background-color: #FDBD10;
+	background-color: #60C3B2;
 	color: white;
 	text-align: center;
 }
