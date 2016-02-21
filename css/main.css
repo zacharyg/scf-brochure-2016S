@@ -17,7 +17,11 @@ html, body {
 	min-height: 520px;
 	position: relative;
 	color: white;
-	background-image: url(../img/background.jpg);
+	background: linear-gradient(
+      rgba(96, 195, 178, 0.45), 
+      rgba(96, 195, 178, 0.45)
+    ),url(../img/background.jpg);
+
 }
 .logo {
 	height: 400px;
