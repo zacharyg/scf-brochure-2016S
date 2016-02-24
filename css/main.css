@@ -6,9 +6,10 @@ html, body {
 	height: 50%;
 }
 .highlight {
-	font-weight: 600;
+	font-weight: 800;
 	/*color: #FDBD10;*/
-	color: #60C3B2;
+	/*color: #60C3B2;*/
+	color: white;
 }
 /* Splash */
 /* ----------------------------------------------------- */
